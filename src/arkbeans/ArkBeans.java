@@ -17,7 +17,7 @@ import javafx.stage.Stage;
  */
 public class ArkBeans extends Application {
     
-    //hello from facelets
+    //hello from facelets jb
     
     @Override
     public void start(Stage primaryStage) {
